@@ -19,5 +19,7 @@ Este desarrollo es una fase avanzada del sistema, diseñado para ser una herrami
 Desarrolladores:
 
 Uriel Crespo
+
 Gael Leyva
+
 Imanol Barrientos
